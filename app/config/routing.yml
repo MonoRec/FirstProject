@@ -1,3 +1,7 @@
+blog_blog_posts:
+    resource: "@BlogBlogBundle/Controller/PostsController.php"
+    type:     annotation
+
 login_login:
     resource: "@LoginLoginBundle/Controller/"
     type:     annotation
